@@ -1,0 +1,2 @@
+rootProject.name = "AndersenHw1"
+include ':app'
